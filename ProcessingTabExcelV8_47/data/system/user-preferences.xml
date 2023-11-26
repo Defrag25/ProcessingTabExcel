@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user-preferences>
+  <interface-scale percentage="100"/>
+  <color-scheme id="1"/>
+  <memory-indicator visible="0"/>
+  <usage-instructions visible="0"/>
+  <save-OnlyEvents state="0"/>
+  <save-Timestamp state="1"/>
+  <serial-port baud-rate="115200" databits="8" line-ending="&#10;" parity="N" stopbits="1.0"/>
+  <allowed key="" name="CBTW0320"/>
+</user-preferences>
